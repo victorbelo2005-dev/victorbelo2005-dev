@@ -8,7 +8,6 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de Almeida
 - 💻 Curto criar interfaces, sites e sistemas do zero — front-end é onde eu mais me divirto
-- 📚 Atualmente estudando **React** e aprofundando em **banco de dados (SQL/NoSQL/cloud)**
 - 🌱 Todo projeto que eu termino vira motivo de orgulho — mesmo os pequenos
 
 ---
